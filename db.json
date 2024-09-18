@@ -56,5 +56,13 @@
             "address": "Schwimmbadgasse 21, 1220 Wien",
             "venueByPublicTansport": true
         }
+    ],
+    "registrations": [
+        {
+            "id": 1,
+            "name": "Testuser",
+            "birthdate": "2024-11-13",
+            "courseId": "_iL775j"
+        }
     ]
 }
